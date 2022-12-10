@@ -1,0 +1,379 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+.wrap1{
+    width: 100%;
+    height: 100vh;
+    background-image: url(img/01_01.png);
+    background-position: center;
+    background-size: cover;
+}
+.wrap2{
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+}
+.fr_set{
+    width: 822px;
+    height: 233px;
+    background-size: cover;
+    margin-left: 1000px;
+    margin-top: 121px;
+    position: absolute;
+}
+.fr01{
+    width: 822px;
+    height: 233px;
+    background-image: url(img/LOGO.png);
+    margin-left: 1000px;
+    margin-top: 121px;
+    position: absolute;
+}
+.fr02{
+    width: 260px;
+    height: 260px;
+    background-image: url(img/01_02.png);
+    margin-top: 550px;
+    margin-left: 895px;
+    position: absolute;
+}
+.fr03{
+    width: 260px;
+    height: 260px;
+    background-image: url(img/01_03.png);
+    margin-left: 1251px;
+    margin-top: 550px;
+    position: absolute;
+}
+.fr04{
+    width: 260px;
+    height: 260px;
+    background-image: url(img/01_04.png);
+    margin-left: 1607px;
+    margin-top: 550px;
+    position: absolute;
+}
+
+/*--index1--*/
+.background{
+    width: 100%;
+    height: 6816px;
+    background-image: url(img/background.png);
+    position: absolute;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/*--네비게이션--*/
+nav{
+    width: 1920px;
+    height: 118px;
+    background-color: #757474;
+}
+ul{
+    width: 1100px;
+    height: 118px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+li{}
+.bt01{padding-right: 108px;}
+.bt02{}
+.bt03{}
+.bt04{padding-right: 50px;}
+/*--index1--*/
+.s_b00{
+    width: 1100px;
+    position: relative;
+    margin: 0 auto;
+}
+
+.sub_box1{
+    height: 728px;
+    margin: 0 auto;
+}
+.sub_box2{
+    height: 149px;
+    margin-top: 69px;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.sub_box3{
+    height: 770px;
+    margin-top: 56px;
+}
+.sub_box4{
+    height: 867px;
+    margin-top: 56px;
+}
+.sub_box5{
+    height: 859px;
+    margin-top: 56px;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.sub_box6{
+    height: 92px;
+    background-repeat: no-repeat;
+    margin-top: 56px;
+    text-align: center;
+}
+.sub_box7{
+    height: 417px; 
+    margin-top: 56px; 
+}
+.sub_box8{
+    height: 277px;
+    margin-top: 56px;
+}
+.sub_box9{
+    height: 688px;
+    margin-top: 56px;
+}
+.sub_box10{
+    height: 92px;
+    text-align: center;
+    background-repeat: no-repeat;
+    margin-top: 56px;
+}
+.sub_box11{
+    height: 226px;
+    background-repeat: no-repeat;
+    margin-top: 56px;
+}
+.sub_box12{
+    height: 374px;
+    margin-top: 56px;
+}
+.sub_box13{
+    height: 331px;
+    margin-top: 56px;
+}
+
+.sub_ft{
+    width: 1100px;
+    height: 200px;
+    margin: 0 auto;
+    background-color: white;
+    position: relative;
+    margin-top: 59px;
+}
+
+/*--index2--*/
+
+/*--네비게이션--*/
+nav{
+    width: 100%;
+    height: 118px;
+    background-color: #757474;
+}
+ul{
+    width: 1100px;
+    height: 118px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+li{}
+.bt2_01{
+    padding-right: 108px;
+}
+.bt2_02{}
+.bt2_03{}
+.bt2_04{padding-right: 50px;}
+
+/*--index2--*/
+.background2{
+    width: 100%;
+    height: 9027px;
+    background-image: url(img/background2.png);
+    position: absolute;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.s_b02{
+    width: 1100px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.sub2_box1{
+    height: 735px;
+}
+.sub2_box2{
+    height: 158px;
+    margin-top: 143px;
+}
+.sub2_box3{
+    height: 379px;
+    margin-top: 90px;
+}
+.sub2_box4{
+    height: 507px;
+    text-align: center;
+    margin-top: 100px;
+}
+.sub2_box5{
+    height: 216px;
+    margin-top: 100px;
+}
+.sub2_box6{
+    height: 157px;
+    margin-top: 122px;
+}
+.sub2_box7{
+    height: 779px;
+    margin-top: 120px;
+}
+
+.sub2_box8{
+    height: 410px;
+    margin-top: 100px;
+}
+.sub2_box9{
+    height: 402px;
+    margin-top: 122px;
+}
+.sub2_box10{
+    height: 352px;
+    text-align: center;
+    margin-top: 100px;
+}
+.sub2_box11{
+    height: 402px;
+    margin-top: 100px;
+}
+.sub2_box12{
+    height: 157px;
+    margin-top: 128px;
+}
+.sub2_box13{
+    height: 142px;
+    margin-top: 78px;
+}
+.sub2_box14{
+    height: 452px;
+    text-align: center;
+    margin-top: 100px;
+}
+.sub2_box15{
+    height: 491.4px;
+    margin-top: 100px;
+}
+.sub2_box16{
+    height: 528px;
+    margin-top: 78px;
+}
+.sub2_box17{
+    height: 786px;
+    margin-top: 92px;
+}
+.sub2_ft{
+    width: 1100px;
+    height: 200px;
+    margin: 0 auto;
+    background-color: white;
+    position: relative;
+    margin-top: 100px;
+}
+
+/*--index3--*/
+.background3{
+    width: 100%;
+    height: 6795px;
+    background-image: url(img/background3.png);
+    position: absolute;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+/*--네비게이션--*/
+nav{
+    width: 100%;
+    height: 118px;
+    background-color: #757474;
+}
+ul{
+    width: 1100px;
+    height: 118px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+li{}
+.bt2_01{
+    padding-right: 108px;
+}
+.bt2_02{}
+.bt2_03{}
+.bt2_04{padding-right: 50px;}
+
+.s_b03{
+    width: 1100px;
+    margin: 0 auto;
+    position: relative;
+}
+.sub3_box1{
+    height: 731px;
+}
+.sub3_box2{
+    height: 92px;
+    margin-top: 148px;
+}
+.sub3_box3{
+    height: 136px;
+    margin-top: 150px;
+}
+.sub3_box4{
+    height: 216px;
+    margin-top: 149px;
+}
+.sub3_box5{
+    height: 784px;
+    margin-top: 120px;
+    text-align: center;
+}
+.sub3_box6{
+    height: 88px;
+    margin-top: 30px;
+}
+.sub3_box7{
+    height: 308px;
+    margin-top: 150px;
+}
+.sub3_box8{
+    height: 400px;
+    margin-top: 150px;
+}
+.sub3_box9{
+    height: 492px;
+    margin-top: 150px;
+}
+.sub3_box10{
+    height: 492px;
+    margin-top: 150px;
+}
+.sub3_box11{
+    height: 492px;
+    margin-top: 150px;
+}
+.sub3_box12{
+    height: 400px;
+    margin-top: 150px;
+}
+.sub3_box13{
+    height: 216px;
+    margin-top: 150px;
+}
+.sub3_ft{
+    width: 1100px;
+    height: 200px;
+    margin: 0 auto;
+    background-color: white;
+    position: relative;
+    margin-top: 100px;
+}
